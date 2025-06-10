@@ -43,7 +43,9 @@ xi = 10.5
 
 ## 🖥️ Estructura del Proyecto
 
-📁 / (raíz del proyecto)
+## 📂 Archivos del repositorio
+
+```text
 ├── index.html → Página de inicio y navegación
 ├── inicio.html → Introducción teórica al tema
 ├── ap1.html → Aplicación 1: Temperatura
@@ -51,6 +53,8 @@ xi = 10.5
 ├── ap3.html → Aplicación 3: Velocidad
 ├── main.js → Funciones de interpolación, resolución y gráficos
 ├── Spline.js → Clase externa para interpolación cúbica
+```
+
 
 ## 📊 Visualizaciones
 
